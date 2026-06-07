@@ -39,7 +39,7 @@ ln -s ~/.config/tmux/tmux.conf ~/.tmux.conf
 
 ## Prerequisites
 
-- [tmux](https://github.com/tmux/tmux) (version 3.0+ recommended)
+- [tmux](https://github.com/tmux/tmux) (version 3.5+ recommended)
 - Optional: [tmux-sessionizer](https://github.com/jrmoulton/tmux-sessionizer) for session management keybindings
 
 ## Credits
